@@ -22,12 +22,12 @@
 
  cd SoraClone
 
- python soraclone.py
+ python SoraClone.py
 ```
 #### RUN SCRIPT
 ```python
 $ cd SoraClone
-$ python soraclone.py
+$ python SoraClone.py
 ```
 
 #### [~] SoraDev-ID
