@@ -1,2 +1,41 @@
-# SoraClone
-This Script is Free. Trading is strictly prohibited
+ 
+
+#### INSTALL TOOL ON TERMUX
+```python
+  pkg update
+
+ pkg upgrade
+
+ pkg install python
+
+ pkg install python2
+
+ pip2 install requests 
+
+ pip2 install mechanize
+
+ pip2 install bs4
+ 
+ rm -rf SoraClone
+
+ git clone https://github.com/SoraDev-ID/SoraClone
+
+ cd SoraClone
+
+ python soraclone.py
+```
+#### RUN SCRIPT
+```python
+$ cd fcpro
+$ python soraclone.py
+```
+
+#### [~] SoraDev-ID
+
+<a href="https://ibb.co/8jdT6JL"><img src="https://i.ibb.co/vJQgZb6/Screenshot-20220621-033501-Termux.png" alt="Screenshot-20220621-033501-Termux" border="0"></a>
+
+
+
+
+
+#### THANKS FOR USING MY SCRIPT
