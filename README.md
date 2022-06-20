@@ -33,7 +33,8 @@ $ python SoraClone.py
 #### [~] SoraDev-ID
 
 <a href="https://ibb.co/8jdT6JL"><img src="https://i.ibb.co/vJQgZb6/Screenshot-20220621-033501-Termux.png" alt="Screenshot-20220621-033501-Termux" border="0"></a>
-
+#### RESULTS
+<a href="https://ibb.co/dGnmfXf"><img src="https://i.ibb.co/nzhPw4w/Screenshot-20220621-035034-Termux.png" alt="Screenshot-20220621-035034-Termux" border="0"></a>
 
 
 
