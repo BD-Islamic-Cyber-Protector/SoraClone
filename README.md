@@ -26,7 +26,7 @@
 ```
 #### RUN SCRIPT
 ```python
-$ cd fcpro
+$ cd SoraClone
 $ python soraclone.py
 ```
 
